@@ -30,6 +30,7 @@ This repository demonstrates how to structure a backend application using contro
    ```bash
    git clone https://github.com/Memonul-Islam-Tuhin/REST-API.git
    cd REST-API
+   code .
 2.Install dependencies:
 
      npm install 
