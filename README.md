@@ -8,7 +8,7 @@ This repository demonstrates how to structure a backend application using contro
 ## 📂 Project Structure
 
 
-  I. REST-API/
+  **I. REST-API/**
 
     │── controllers/   # Business logic for handling requests
     │── models/        # Data models and schemas
@@ -31,7 +31,7 @@ This repository demonstrates how to structure a backend application using contro
    git clone https://github.com/Memonul-Islam-Tuhin/REST-API.git
    cd REST-API
    code .
-2.Install dependencies:
+##  📦 Install dependencies:
 
      npm install 
 
@@ -39,7 +39,7 @@ or
 
     yarn add
 
-3.📌 Features
+## 📌 Features
 
     Organized MVC structure
 
@@ -50,13 +50,13 @@ or
     Easy to extend and maintain
 
     
-4.🛠️ Technologies Used
+## 🛠️ Technologies Used
 
        Node.js
 
        Express.js
 
-5.🤝 Contributing
+## 🤝 Contributing
 
     Fork the repo
 
@@ -69,11 +69,11 @@ or
     Open a Pull Request
 
 
-6.📜 License
+## 📜 License
 
     This project is open-source and available under the MIT License.
 
-  I. Question Mark :- 
+  **I. Question Mark :-**
 
     Would you like me to also add **example API endpoints** (like `GET /users`, `POST /users`) to the README so it’s more practical for testing?
 
